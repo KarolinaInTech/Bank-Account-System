@@ -14,20 +14,6 @@ A simple bank account system built in Java using object-oriented programming (OO
 Language: Java
 OOP Concepts: Inheritance, Encapsulation, Polymorphism
 IDE: IntelliJ IDEA 
-**Project Structure**
-
-/BankingSystem
-│-- /src
-│   │-- GeneralAccount.java
-│   │-- ChequingAccount.java
-│   │-- GrandAccount.java
-│   │-- SavingsAccount.java
-│   │-- Main.java
-│-- /tests
-│   │-- ChequingAccountTest.java
-│   │-- GrandAccountTest.java
-│   │-- SavingsAccountTest.java
-│-- README.md
 
 **Installation & Setup**
 
@@ -49,4 +35,4 @@ Perform transactions like deposits, withdrawals, and bill payments.
 Run endOfMonth() to apply interest and reset counters.
 
 **Author**
-Karolina Vakula - 
+Karolina Vakula - https://github.com/KarolinaInTech
